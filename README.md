@@ -12,9 +12,9 @@
 
 ________
 <br>
-<p>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tothfazekasbalazs&theme=dark&show_icons=true" alt="tothfazekasbalazs" /></p>
+<p>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ ‎&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tothfazekasbalazs&theme=dark&show_icons=true" alt="tothfazekasbalazs" /></p>
 <br>
-<p>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tothfazekasbalazs&theme=dark&show_icons=true" alt="tothfazekasbalazs" /></p>
+<p>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ ‎<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tothfazekasbalazs&theme=dark&show_icons=true" alt="tothfazekasbalazs" /></p>
 
 <br>
 
