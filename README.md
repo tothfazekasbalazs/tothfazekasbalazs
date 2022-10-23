@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, my name is Balázs</h1>
-<h3 align="center">I'am 15 year old programmer, a passionate frontend developer from Hungary. My goal is to make others like programming</h3>
+<h3 align="center">I'am 15 year old programmer, a passionate frontend developer from Hungary. My goal is to make others like programming.</h3>
 
 <img alt="Csumi" src="https://images3.alphacoders.com/108/1081008.png">
 
