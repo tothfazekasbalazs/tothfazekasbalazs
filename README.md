@@ -20,7 +20,7 @@ ________
 
 ________
 
-- 🔭 I’m currently working on: [calculator_for_everything](https://github.com/tothfazekasbalazs/calculator_for_everything)
+- 🔭 I’m currently working on: [packet_tracer_fast_commands](https://github.com/tothfazekasbalazs/packet_tracer_fast_commands)
 
 - 🌱 I’m currently learning: **Python / Java**
 
