@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, my name is Balázs</h1>
-<h3 align="center">I'am 15 year old programmer, a passionate frontend developer from Hungary. My goal is to make others like programming.</h3>
+<h3 align="center">I'am 16 year old programmer, a passionate frontend and backend developer from Hungary. My goal is to make others like programming.</h3>
 
 <img alt="Csumi" src="https://images3.alphacoders.com/108/1081008.png">
 
@@ -22,7 +22,7 @@ ________
 
 - 🔭 I’m currently working on: [packet_tracer_fast_commands](https://github.com/tothfazekasbalazs/packet_tracer_fast_commands)
 
-- 🌱 I’m currently learning: **Python / Java**
+- 🌱 I’m currently learning: **Python / PHP**
 
 - 📫 How to reach me: **tothfazekasbalazs@gmail.com**
 
